@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @z-zacree
+- 👀 I’m interested in learning stuff
+- 🌱 I’m currently learning app dev in android studio
+- 💞️ I’m looking to collaborate on nth for now
+- 📫 How to reach me: long arms.. long arms.
