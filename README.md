@@ -26,7 +26,7 @@ Since starting my journey into web development, I realized that building website
 🌱 What I'm doing
 ---
 
-- **Money Go Where?**
+- [**Money Go Where?**](https://github.com/z-zacree/money-go-where)
   - An expense tracker website using React, Material-UI and Chart.js
 
 
