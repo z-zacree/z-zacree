@@ -28,6 +28,12 @@ Since starting my journey into web development, I realized that building website
 
 - [**Money Go Where?**](https://github.com/z-zacree/money-go-where)
   - An expense tracker website using React, Material-UI and Chart.js
+  
+- [**Our Hangouts**](https://github.com/z-zacree/our-hangout-backend)
+  - A blog website using React, Material-UI and Laravel
+  
+- [**Fast Order**](https://github.com/z-zacree/fast-order)
+  - A Food ordering application made with Flutter
 
 
 📫 Contact me
