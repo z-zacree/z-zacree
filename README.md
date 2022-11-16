@@ -29,5 +29,6 @@ Since starting my journey into web development, I realized that building website
 📫 Contact me
 ---
 
-- [**email**](zacharylim2004@gmail.com)
+- **Email**
+  - zacharylim2004@gmail.com
 - [**LinkedIn**](https://www.linkedin.com/in/zachary-lim-993935216/)
