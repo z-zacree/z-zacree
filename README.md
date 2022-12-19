@@ -17,13 +17,13 @@ Since starting my journey into web development, I realized that building website
 
 - [**Our Hangouts**](https://github.com/z-zacree/our-hangout-frontend)
   - A blog website using React, Material-UI and Laravel
-- [**Fast Order**](https://github.com/z-zacree/fast-order)
+- [**Skip Q Lah**](https://github.com/z-zacree/fast-order)
   - A Food ordering application made with Flutter
 
 🌱 What I'm doing
 ---
 
-- [**Klenze**](https://klenze.vercel.app)
+- [**Klenze**](https://klenze.com.au)
   - A cleaning company based in Melbourne that specializes in short term rental cleaning.
 
 📫 Contact me
