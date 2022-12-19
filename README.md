@@ -23,7 +23,7 @@ Since starting my journey into web development, I realized that building website
 🌱 What I'm doing
 ---
 
-- [**Klenze**](https://klenze.com.au)
+- [**Klenze**](https://www.klenze.com.au)
   - A cleaning company based in Melbourne that specializes in short term rental cleaning.
 
 📫 Contact me
